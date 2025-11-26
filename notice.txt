@@ -4,10 +4,17 @@
 
 * EXPERIMENTAL RESEARCH PROJECT - USE SOBER AT YOUR OWN RISK
 * Privacy Notice: https://sober.vinegarhq.org/privacy.txt
-* Last updated: Februrary 13, 2025
+* Last updated: November 28, 2025
 
 
-The Sober project is a free unofficial application runtime made to run Roblox on Linux. It is an unofficial community project and it does 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+= SOBER LICENSE AGREEMENT & DISCLAIMERS =
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Definitions & Background
+
+The Sober project is a free unofficial application runtime made to run Roblox on Linux. It is an unofficial community project and it does
 not generate any revenue for its authors whatsoever. Sober is completely unaffiliated with Roblox or its partners. Sober is not affiliated
 with Google, Android, or the Android Open Source Project. Sober is not endorsed by any of the projects, persons, or companies listed below.
 The Sober project does not support any misuse of Roblox systems or platforms, in fact we have measures in place to prevent such usage of our
@@ -17,32 +24,175 @@ Given Sober's experimental nature, and given Roblox does *NO* testing or quality
 moderation actions may be taken on your account as a result of using Sober. We're not responsible for Roblox's actions, and Roblox
 isn't responsible for our actions either.
 
+By using Sober, you acknowledge that your usage of Sober may be interpreted as a third party client; we are not liable
+or responsible for any damages, account limitations, terminations, suspensions, or losses. You agree to hold Sober harmless in the
+event that Roblox deems your usage of Sober to be violative.
+
+If Roblox, Google, or Android send a verifiable, direct communication requesting Sober to cease operations, we will do just that.
+
 Sober is a software interoperability layer, and a project intended purely for research. We take no responsibility for the actions of
 our users, since we only provide a simple software layer that links Roblox to native Linux libraries. We also don't redistribute any
 of Roblox's intellectual property or code. Instead, users download the Roblox Application Bundle (APK files) themselves. Users are given
-an option to connect to Google Play in-app to download the bundle automatically, but it's strictly the user's choice & responsibility.
+an option to connect to Google Play in-app to download the bundle automatically, but it's strictly the user's choice & responsibility,
+and the download is performed like on any legitimate device, much like a standard browser would allow you to access content.
 
------------------------------------------------------------------------------------------------------------------------
+Sober is not responsible for, nor does it grant any license to third-party software, content (like Roblox) or in-experience content (content
+inside of the Roblox app).
 
-Copyright (c) 2025 VinegarHQ & Sober contributors
-All Rights Reserved.
+2. Accepting this License Agreement
 
-Use in binary form, without modification, is permitted provided the following
-conditions are met:
-   1. You may not redistribute, reupload, resell, or modify this software.
+* In order to use Sober, you must first agree to the License Agreement. You may not use Sober if you do not accept the License Agreement.
 
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
-ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
-OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+* You represent that you are at least 18 years of age (or the age of legal majority in your jurisdiction). If you are under this age,
+  you represent that you have obtained verifiable consent from your parent or legal guardian to use Sober and to agree to this License
+  Agreement. If you are a parent or legal guardian agreeing to this License Agreement for the benefit of a minor, you are fully responsible
+  for their use of Sober, including all financial charges and legal liability that they may incur.
 
+* You may not use Sober and may not accept the License Agreement if you are a person barred from receiving Sober under the laws of the
+  United States, Romania, or other countries, including the country in which you are resident or from which you use Sober.
 
+* If you are agreeing to be bound by the License Agreement on behalf of your employer or other entity, you represent and warrant that
+  you have full legal authority to bind your employer or such entity to the License Agreement.
 
-We make use of various projects, some of which require their license to be preserved. Here's their respective licenses:
------------------------------------------------------------------------------------------------------------------------
+3. Sober License
+
+* Subject to the terms of the License Agreement, you are granted a limited, worldwide, royalty-free, non-assignable, non-exclusive,
+  and non-sublicensable license to use Sober solely for executing the third-party application Roblox on your personal machine.
+
+* You agree that Sober's developers reserve all rights not explicitly granted to you.
+
+* You may not use Sober for any purpose not expressly permitted by the License Agreement.
+
+* Use, reproduction and distribution of components of Sober licensed under an open source software license are governed
+  solely by the terms of that open source software license and not the License Agreement.
+
+* Use, reproduction and distribution of third-party components loaded under Sober's runtime are governed solely by the terms
+  of that respective license and not the License Agreement.
+
+* Likewise, we obtain no right, title or interest from you or your licensors in or to any content that you may create or access
+  inside of Sober's runtime, like Experiences on Roblox.
+
+* You agree that Sober is not responsible for, nor does it grant any license to third-party software or content. For example,
+  we claim no ownership or liability for content displayed by Roblox. It is solely your responsibility to govern your use of
+  Roblox inside of Sober's runtime accordingly.
+
+* You agree that Sober may change without prior notice; Sober may stop being provided at any time without prior notice to you;
+  the software is provided as-is and you are not entitled to support from Sober or its developers.
+
+* You agree that you will not remove, obscure, or alter any proprietary rights notices (including copyright and trademark notices)
+  that may be affixed to or contained within Sober.
+
+* You agree that you will not, and will not encourage any third-party to do any of the following:
+   - distribute, modify, adapt, disassemble, de-compile or otherwise reverse-engineer Sober or any part of Sober or its underlying
+     algorithms, or use Sober to aid in such activity for a third-party program or service, except to the extent that such activity
+     is expressly permitted by applicable law or by the licensing terms of a specific open-source component included with the software;
+   - provide, sell, license, sublicense, lease, lend, or disclose any part of Sober to any third-party;
+   - create derivative works from or based on Sober;
+   - automate interactions with the Sober program and any third-party programs running inside of it or scrape data using Sober;
+   - repackage Sober;
+   - create or run tools, programs, scripts, or applications which read or modify the memory of a running Sober process on the
+     machine for the purpose of cheating, modification of intended behavior, automation, botting, or circumvention of measures
+     put in place by Sober or Roblox;
+   - use Sober to engage in an activity that violates any applicable law or regulation;
+   - use Sober to engage in an activity that violates Roblox's Child Safety standards;
+   - damage, interfere with, or interrupt normal operation of any third-party service that your device may contact
+     during the usage of Sober (like Google, Roblox, or third-party experiences);
+   - modify, interfere with, or interrupt the operation of Sober or any contacted third-party services;
+   - install or use Sober on a remote server, virtual private server, or cloud platform for the purpose of offering Sober as a service,
+     performing automated gameplay, or bypassing measures put in place by Sober or Roblox;
+
+* You agree that you are solely responsible for (and that Sober and its developers have no responsibility to you or to any third party for)
+  any data, content, or resources that you create, transmit or display through Sober and/or third-party applications or experiences in Sober,
+  and for the consequences of your actions (including any loss or damage which Sober or its developers may suffer) by doing so.
+
+* You agree that you are solely responsible for (and that Sober or its developers have no responsibility to you or to any third party for) any
+  breach of your obligations under the License Agreement, any applicable third party contract or Terms of Service, or any applicable law or
+  regulation, and for the consequences (including any loss or damage which Sober or its developers or any third party may suffer) of any
+  such breach.
+
+* You agree that Sober is not an official Roblox product. You agree to Roblox's Privacy Policy, Terms of Use, and Community standards.
+  Likewise, Sober is not affiliated with Google, Android, or any other third-party service contacted by your device during Sober usage.
+
+4. Terminating this License Agreement
+
+* The License Agreement will continue to apply until either you or Sober's developers choose to terminate it.
+
+* To terminate the License Agreement, cease your usage of Sober.
+
+* Sober's developers may terminate the License Agreement at any time.
+
+* When the License Agreement ends, you agree to destroy all copies of Sober from all hard disks and memory,
+  your rights granted under this agreement will cease, neither party will be liable for damages that arise
+  from the termination of this Agreement.
+
+5. DISCLAIMER OF WARRANTIES
+
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF SOBER IS AT YOUR SOLE RISK AND THAT SOBER IS PROVIDED "AS IS" AND "AS AVAILABLE"
+WITHOUT WARRANTY OF ANY KIND FROM SOBER'S DEVELOPERS.
+
+YOUR USE OF SOBER AND ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF SOBER IS AT YOUR OWN DISCRETION AND RISK
+AND YOU ARE SOLELY RESPONSIBLE FOR ANY ERRORS, DEFECTS, DESTRUCTION, DAMAGE OR LOSS RESULTING FROM SUCH USE, INCLUDING DAMAGE TO YOUR
+COMPUTER SYSTEM OR OTHER DEVICE, LOSS OF DATA, VOIDING OF THE MANUFACTURER WARRANTY OR INCREASED VULNERABILITY OF YOUR DEVICE OR
+COMPUTER SYSTEM.
+
+SOBER'S DEVELOPERS FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT
+NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+SOBER DOES NOT CONTROL, MONITOR, OR HAVE ANY KNOWLEDGE OF THE CONTENT, COMMUNICATIONS, OR INTERACTIONS (INCLUDING TEXT CHAT, VOICE CHAT,
+AND USER GENERATED CONTENT) THAT OCCUR WITHIN THE ROBLOX APPLICATION. WE ARE NOT RESPONSIBLE FOR THE CONDUCT OF ANY USER ON ROBLOX, WHETHER
+ONLINE OR OFFLINE. WE EXPRESSLY DISCLAIM ANY LIABILITY FOR ANY OFFENSIVE, INAPPROPRIATE, OBSCENE, UNLAWFUL, OR OTHERWISE OBJECTIONABLE
+CONTENT OR INTERACTIONS YOU MAY ENCOUNTER WHILE USING ROBLOX THROUGH SOBER.
+
+WE MAY, AT OUR SOLE DISCRETION, EMPLOY MEASURES TO DETECT AND BAN CHEATERS OR ABUSIVE USERS. HOWEVER, WE HAVE NO OBLIGATION TO MONITOR USER
+CONDUCT AND WE ASSUME NO LIABILITY FOR FAILING TO BAN ANY SPECIFIC USER. THE EXISTENCE OF A BAN SYSTEM DOES NOT CONSTITUTE A GUARANTEE OF SAFETY
+OR A WARRANTY THAT THE PLATFORM IS FREE OF BAD ACTORS.
+
+6. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, YOU EXPRESSLY UNDERSTAND AND AGREE THAT SOBER'S DEVELOPERS, THEIR SUBSIDIARIES AND AFFILIATES,
+AND THEIR LICENSORS SHALL NOT BE LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY
+DAMAGES THAT MAY BE INCURRED BY YOU, INCLUDING ANY LOSS OF DATA, WHETHER OR NOT SOBER'S DEVELOPERS OR THEIR REPRESENTATIVES HAVE BEEN ADVISED OF OR
+SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
+
+IF THE APPLICABLE LAW DOES NOT PERMIT THE TOTAL EXCLUSION OF LIABILITY AS SET FORTH ABOVE, YOU AGREE THAT SOBER'S DEVELOPERS' LIABILITY SHALL
+BE LIMITED TO THE MINIMUM EXTENT REQUIRED BY SUCH LAW.
+
+7. Indemnification
+
+To the maximum extent permitted by law, you agree to defend, indemnify and hold harmless Sober's developers, their affiliates and their respective
+directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any and all losses,
+liabilities, damages, costs and expenses (including reasonable attorneys fees) arising out of or accruing from (a) your use of Sober, or (b)
+any non-compliance by you with the License Agreement or any third-party agreement.
+
+8. Changes & General Legal Terms
+
+* We may make changes to the License Agreement as new versions of Sober are distributed. When the changes are made, we will make the new version of
+  the License Agreement available on the website where Sober is distributed.
+
+* The License Agreement constitutes the whole legal agreement between you and Sober's developers and governs your use of Sober (excluding any
+  services which Sober's developers may provide to you under a separate written agreement), and completely replaces any prior agreements between
+  you and Sober's developers in relation to Sober.
+
+* You agree that Sober's developers shall be beneficiaries to the License Agreement and that they are entitled to enforce and rely upon any
+  provision of the License Agreement that confers a benefit (or rights in favor of) them. Other than this, no other person or company shall
+  be third party beneficiaries to the License Agreement.
+
+* If any court of law, having the jurisdiction to decide on this matter, rules that any provision of the License Agreement is invalid, then
+  that provision will be removed from the License Agreement without affecting the rest of the License Agreement. The remaining provisions of
+  the License Agreement will continue to be valid and enforceable.
+
+* The License Agreement, and your relationship with Sober's developers under the License Agreement, shall be governed by the laws of Romania
+  without regard to its conflict of laws provisions. You and Sober's developers agree to submit to the exclusive jurisdiction of the courts
+  located within the municipality of Bucharest, Romania to resolve any legal matter arising from the License Agreement. Notwithstanding this,
+  you agree that Sober's developers shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief)
+  in any jurisdiction.
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+= THIRD-PARTY LICENSES =
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* We make use of various projects, some of which require their license to be preserved.
+  Here's their respective licenses:
 
 
 =============
@@ -229,6 +379,37 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+
+
+============
+= libxml2: =
+============
+Except where otherwise noted in the source code (e.g. the files dict.c and
+list.c, which are covered by a similar licence but with different Copyright
+notices) all the files are:
+
+ Copyright (C) 1998-2012 Daniel Veillard.  All Rights Reserved.
+ Copyright (C) The Libxml2 Contributors.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is fur-
+nished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FIT-
+NESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
 
 
 ============

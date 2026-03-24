@@ -4,36 +4,127 @@
 
 * EXPERIMENTAL RESEARCH PROJECT - USE SOBER AT YOUR OWN RISK
 * License & Notice: https://sober.vinegarhq.org/notice.txt
-* Last updated: February 13, 2025
+* Effective: March 27, 2026
 
 
 Sober is an experimental software interoperability layer, which lets users run Roblox on Linux.
 
 The data collected and the third parties involved differ depending on how you use our services.
 
-* When you visit our website; when you install Sober using your package manager:
-  Your device will connect to Cloudflare, as they're our CDN provider.
-  Please see: https://www.cloudflare.com/privacypolicy/
+* Data Controller: The Sober Developers
+* Contact: privacy [at] vinegarhq.org
 
-* When you open the Sober app on your device:
-   - We'll make a network request to Sober to check for updates, which also goes through Cloudflare.
-     Please see: https://www.cloudflare.com/privacypolicy/
-   - Of course, Sober will connect to Roblox services & open the Roblox app.
-     Roblox has its own privacy policy, which can be found here:
-     https://en.help.roblox.com/hc/en-us/articles/115004630823-Roblox-Privacy-and-Cookie-Policy
+* When you visit our website:
+   * What happens:
+      - Your device will connect to Cloudflare, our CDN provider, then reach our servers.
+   * Third parties:
+      - Cloudflare: https://www.cloudflare.com/privacypolicy/
+   * Data processed:
+      - Just as visiting any other website on the Internet, basic device information and IP addresses
+        are temporarily processed to serve the request. This information may be stored in log files by
+        us and/or our CDN and server provider.
+   * Reason for data processing:
+      - To enable you to access our Websites and Services and maintain their security and integrity;
+      - To provide, maintain, and improve the Websites and Services for all users;
+      - To comply with legal obligations and to investigate and prevent unauthorized access to our
+        services, and other illegal activities.
+   * Legal basis for processing:
+      - Fulfillment of a contract (serving you the website and associated online services);
+      - Legitimate interest (providing a safe experience for all users of the website).
 
-* When you use the *optional* Automatic Downloads feature:
-   - We'll make a network request to Sober to make Automatic Downloads work, which also goes through Cloudflare.
-     Please see: https://www.cloudflare.com/privacypolicy/
-   - The following anonymous information is sent along with this request & retained for analytics and error tracking:
-       * Your current Sober version
-       * The currently installed Roblox version (or none, if you've never installed Roblox before)
-       * If the request failed, we'll send an error code explaining why the previous install failed
-   - Your client will then receive a Google Play CDN download link, hosted by Google.
-     We'll download the bundle from there.
-     Google's privacy policy is here: https://policies.google.com/privacy
+* When you open and use the Sober app:
+   * What happens:
+      - Your device will connect to Cloudflare, our CDN provider, then reach our servers.
+      - Sober opens the Roblox app, so your device will connect to Roblox services.
+      - Sober processes and collects the bare minimum required to maintain compatibility and security.
+   * Third parties:
+      - Cloudflare: https://www.cloudflare.com/privacypolicy/
+      - Roblox: https://en.help.roblox.com/hc/en-us/articles/115004630823-Roblox-Privacy-and-Cookie-Policy
+   * Data processed:
+      - Roblox is independent of Sober and has its own data collection and processing policy. When you interact
+        with Roblox services through Sober, you're interacting with Roblox through our compatibility layer.
+        For this reason, Sober does not involve itself in the Roblox app's internal operations.
+        Check Roblox's privacy policy to learn how data is collected and used.
+      - Just as visiting any other website on the Internet, basic device information and IP addresses
+        are temporarily processed to serve the request. This information may be stored in log files by
+        us and/or our CDN and server provider.
+      - Data required to keep the app stable and secure for everyone, such as crash reports, app process state,
+        basic device information and unique device identifiers, active app modules. This information is temporarily processed, 
+        usually without ever leaving your device, to keep the app running smoothly and maintain compatibility. Such data may 
+        be sent and collected pursuant to the interests laid out below. For example, we might ask you for app diagnostic logs
+        on your machine to help debug an issue, use the unique identifiers and process metadata to safeguard our app against
+        malicious activity, or track the number of graphics driver-related crashes.
+   * Important notice:
+      - Your Roblox activity stays between you and Roblox. Sober will *never* track what you play, who you interact with,
+        what messages you send, authentication tokens, or what you do on the Roblox platform. We'll *never* collect data
+        from your device that is not related to Sober itself.
+      - For example, the app may send basic crash statistics, but we'll never send data from other apps, or try to figure out
+        what you do on Roblox.
+   * Reason for data processing:
+      - To enable you to access our Websites and Services and maintain their security and integrity;
+      - To provide, maintain, and improve the Websites and Services for all users (like collecting data about crashes to see
+        if there's an influx of crashes on a particular version);
+      - To provide customer service (like when we ask you for app diagnostic logs on your machine to figure out an issue);
+      - To comply with legal obligations and to investigate and prevent unauthorized access to our
+        services, and other illegal activities.
+   * Legal basis for processing:
+      - Fulfillment of a contract (providing you the app and its associated services, making sure the app is secure for everyone);
+      - Legitimate interest (providing a safe experience for all users of the app).
 
-* When you use the *optional* server location indicator feature & visit an experience:
-   - Sober has an optional feature to show you the location of the Roblox server you connected to.
-   - To make it work, we'll connect to `ipinfo.io` and send the IP of the Roblox server you connected to.
-   - This is optional, and we send the Roblox server IP, *NOT* your IP.
+* When you use the optional Automatic Downloads feature:
+   * What happens:
+      - Your device will connect to Cloudflare, our CDN provider, then reach our servers.
+      - You'll get a Google Play download link, which hosts the application bundles.
+   * Third parties:
+      - Cloudflare: https://www.cloudflare.com/privacypolicy/
+      - Google: https://policies.google.com/privacy
+   * Data processed:
+      - Just as visiting any other website on the Internet, basic device information and IP addresses
+        are temporarily processed to serve the request. This information may be stored in log files by
+        us and/or our CDN and server provider.
+      - Information required to provide the update package, like your current Sober version and previous errors.
+   * Reason for data processing:
+      - To give you access to the optional Automatic Downloads feature;
+      - To enable you to access our Websites and Services and maintain their security and integrity;
+      - To provide, maintain, and improve the Websites and Services for all users;
+      - To comply with legal obligations and to investigate and prevent unauthorized access to our
+        services, and other illegal activities.
+   * Legal basis for processing:
+      - Fulfillment of a contract (providing the seamless install experience you opted into);
+      - Consent (you enabled Automatic Downloads in the initial onboarding screen).
+
+* When you use the optional server location indicator feature & visit an experience:
+   * What happens:
+      - Your device will connect to ipinfo.io.
+   * Third parties:
+      - IPInfo: https://ipinfo.io/privacy-policy/
+   * Data processed:
+      - Just as visiting any other website on the Internet, basic device information and IP addresses
+        are temporarily processed to serve the request. This information may be stored in log files by
+        us and/or our CDN and server provider.
+      - Information required to provide the feature, like the experience server's IP address.
+   * Reason for data processing:
+      - To give you access to the optional Server Location Indicator feature;
+   * Legal basis for processing:
+      - Fulfillment of a contract (providing the feature you opted into);
+      - Consent (you enabled Server Location Indicator in the initial onboarding screen).
+
+* Data retention:
+   - We only keep your data for as long as necessary to fulfill the purposes outlined above;
+   - Server and CDN logs (IP addresses) processed by our CDN provider (Cloudflare) are automatically deleted within
+     24 hours for standard traffic. IP addresses that trigger security alerts or firewall rules may be retained for up
+     to 72 hours for threat-mitigation purposes. Aggregated, anonymous traffic analytics are kept for 30 days;
+   - Diagnostic logs provided by you are deleted once the issue is resolved.
+
+* Your GDPR rights:
+   1. Access the personal data we hold about you;
+   2. Request correction of inaccurate data;
+   3. Request deletion of your data (Right to be Forgotten);
+   4. Withdraw consent at any time for optional features (like Automatic Downloads);
+   5. Object to our processing based on legitimate interests;
+   6. Lodge a complaint with your local Data Protection Authority.
+
+* International Data Transfers:
+   - Our services rely on third parties like Cloudflare, Google, and IPinfo, which may process your data outside the
+     European Economic Area (EEA), such as in the United States. We rely on standard safeguards, such as the EU-US Data
+     Privacy Framework or Standard Contractual Clauses, provided by these partners to ensure your data is protected.

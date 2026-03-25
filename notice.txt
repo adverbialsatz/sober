@@ -3,8 +3,8 @@
 +---------------------------------------------------+
 
 * EXPERIMENTAL RESEARCH PROJECT - USE SOBER AT YOUR OWN RISK
-* Privacy Notice: https://sober.vinegarhq.org/privacy.txt
-* Last updated: November 28, 2025
+* Privacy Notice (recently updated): https://sober.vinegarhq.org/privacy.txt
+* Last updated: March 25, 2026
 
 
 
